@@ -1,1 +1,1 @@
-# soilMoistureDetectionUsingUltrasonicSensor
+# Smart Irrigation Using Ultrasonic Sensor
